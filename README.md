@@ -1,0 +1,2 @@
+# trainning-oscar
+Trainning repository 
